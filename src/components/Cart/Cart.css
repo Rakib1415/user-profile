@@ -1,0 +1,12 @@
+.cart{
+    font-size: 20px;
+    font-family: monospace;
+    background-color: lightgray;
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px white;
+    margin:5px 0px;
+    text-align: center;
+    position: fixed;
+    width: 28%;
+}
